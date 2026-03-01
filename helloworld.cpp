@@ -7,6 +7,7 @@ using namespace std;
 int main()
 {
    vector<string> msg {"Hello", "C++", "World", "from", "VS Code", "and the C++ extension!"};
+   // TEST : ø
    vector <size_t> clara { 1, 2, 3 }; 
 
    for (const string& word : msg)
