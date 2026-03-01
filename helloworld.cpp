@@ -15,6 +15,7 @@ int main()
       for (size_t& number : clara )
       {
          std::cout<< number ;
+         std::cout<<number ;
       
       }
     
